@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap');
+
+body {
+  background-image: url(https://guiadoboleiro.com.br/wp-content/uploads/2021/10/Repro-1200x900.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+  margin: 0 auto;
+}
+
+header {
+  width: 100%;
+  background: white;
+}
+
+.champions-logo {
+  display: block;
+  margin: 0 auto;
+  width: 160px;
+}
+
+.nav {
+  margin: 0;
+
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 26px;
+  color: #071B50;
+}
+
+.header-list {
+  display: inline-block;
+  margin-top: 16px;
+  margin-right: 12px;
+  margin-bottom: 16px;
+  text-transform: uppercase;
+
+}
+
+.header-list a {
+  text-decoration: none;
+  color: #071B50;
+}
+
+.header-list a:hover{
+  text-decoration: underline;
+
+  color: #071c54;
+}
+
+.container {
+  width: 940px;
+  margin: 0 auto;
+
+  background: #071B50;
+
+  border: 1px solid black;
+
+}
+
+.title {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Oswald', sans-serif;
+
+  color: white;
+  text-transform: uppercase;
+  
+}
+
+.img-taca {
+  display: block;
+  width: 600px;
+  margin: 32px auto 0 auto;
+}
+
+.inicio-main p {
+  text-align: justify;
+  text-justify: inter-word;
+  padding: 16px;
+
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  color: white;
+}
+
+.inicio-main .yellowcolor {
+  text-decoration: none;
+  color: yellow;
+}
+
+.info-pessoa {
+  color: white;
+}
+
+.inicio-main a:hover {
+  text-decoration: underline;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+hr {
+  margin-top: 64px;
+  color: white;
+}
+
+.realmadrid {
+  width: 700px; 
+  display: block;
+  margin: 0 auto;
+}
+
+.campeao-main p {
+  text-align: justify;
+  text-justify: inter-word;
+  padding: 16px;
+
+
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  color: white; 
+}
+
+
+.lista-campeoes {
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  color: white;
+}
+
+.campeoes {
+  list-style: none;
+  margin-bottom: 16px;
+}
+
+.image-champions {
+  width: 470px;
+}
+
+.image-vasco {
+  display: block;
+  margin: 0 auto;
+  width: 470px;
+}
